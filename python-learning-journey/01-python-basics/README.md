@@ -1,10 +1,10 @@
 # 01 - Python Basics
 
 **Book chapter:** Automate the Boring Stuff with Python, 3rd Ed. — Chapter 1
-**Status:** Not started
 
 ## Notes
-(Add your notes/summary here once you study this topic.)
-
-## Exercises
-(Exercise files and solutions will be added here, e.g. exercise_1.py, exercise_2.py.)
+- Variables store values with `=`. Python is dynamically typed (no need to declare type).
+- Basic data types: `int`, `float`, `str`, `bool`.
+- Common operators: `+ - * / // % **`
+- `print()` displays output; `input()` reads user input as a string.
+- Comments start with `#`.
