@@ -1,10 +1,15 @@
 # 09 - Regular Expressions
 
 **Book chapter:** Automate the Boring Stuff with Python, 3rd Ed. — Chapter 9
-**Status:** Not started
 
 ## Notes
-(Add your notes/summary here once you study this topic.)
-
-## Exercises
-(Exercise files and solutions will be added here, e.g. exercise_1.py, exercise_2.py.)
+- Regex (regular expressions) let you search for patterns in text, not just exact matches.
+- Use the `re` module: `import re`
+- `re.search(pattern, text)` finds the first match; `re.findall(pattern, text)` finds ALL matches.
+- `re.sub(pattern, replacement, text)` replaces matches with something else.
+- Common pattern symbols:
+  - `\d` = digit, `\w` = word character, `\s` = whitespace
+  - `+` = one or more, `*` = zero or more, `?` = optional
+  - `()` = grouping, `|` = OR
+- Use **raw strings** for patterns: `r"\d+"` (avoids escape-character confusion).
+- `.group()` extracts the matched text from a `re.search()` result.
