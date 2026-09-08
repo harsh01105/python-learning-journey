@@ -1,13 +1,10 @@
 # Project 2 - Web Scraper to CSV Export
 
-**Status:** Not started
-**Uses:** Chapter 13 (requests, BeautifulSoup), Chapter 18 (CSV)
+**Status:** In progress
+**Uses:** Chapter 13 (requests, BeautifulSoup), Chapter 18 (CSV), Chapter 5 (error handling)
 
 ## What it does
-Scrapes a simple public website and saves the extracted data to a .csv file.
+Scrapes book titles, prices, and star ratings from books.toscrape.com
+(a public practice site) and saves them to a CSV file.
 
 ## How to run
-```
-pip install -r requirements.txt
-python main.py
-```
