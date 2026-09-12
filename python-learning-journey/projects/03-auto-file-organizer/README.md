@@ -1,6 +1,6 @@
 # Project 3 - Auto File Organizer
 
-**Status:** In progress
+**Status:** Done
 **Uses:** Chapter 11 (os, shutil), Chapter 9 (regex), Chapter 12 (CLI with argparse)
 
 ## What it does

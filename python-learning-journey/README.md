@@ -16,20 +16,20 @@ building toward a small portfolio of automation projects.
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | Python Basics | Not started |
-| 02 | if-else and Flow Control | Not started |
-| 03 | Loops | Not started |
-| 04 | Functions | Not started |
-| 05 | Debugging | Not started |
-| 06 | Lists | Not started |
-| 07 | Dictionaries and Structuring Data | Not started |
-| 08 | Strings and Text Editing | Not started |
-| 09 | Regular Expressions | Not started |
-| 10 | Reading and Writing Files | Not started |
-| 11 | Organizing Files | Not started |
-| 12 | Web Scraping | Not started |
-| 13 | CSV, JSON, and XML Files | Not started |
-| 14 | SQLite Databases | Not started |
+| 01 | Python Basics | Done |
+| 02 | if-else and Flow Control | Done |
+| 03 | Loops | Done |
+| 04 | Functions | Done |
+| 05 | Debugging | Done |
+| 06 | Lists | Done |
+| 07 | Dictionaries and Structuring Data | Done |
+| 08 | Strings and Text Editing | Done |
+| 09 | Regular Expressions | Done |
+| 10 | Reading and Writing Files | Done |
+| 11 | Organizing Files | Done |
+| 12 | Web Scraping | Done |
+| 13 | CSV, JSON, and XML Files | Done |
+| 14 | SQLite Databases | Done |
 
 ## Daily workflow
 ```

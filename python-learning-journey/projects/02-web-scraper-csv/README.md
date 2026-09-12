@@ -1,6 +1,6 @@
 # Project 2 - Web Scraper to CSV Export
 
-**Status:** In progress
+**Status:** Done
 **Uses:** Chapter 13 (requests, BeautifulSoup), Chapter 18 (CSV), Chapter 5 (error handling)
 
 ## What it does

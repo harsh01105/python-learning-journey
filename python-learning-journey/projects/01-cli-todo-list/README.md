@@ -1,6 +1,6 @@
 # Project 1 - CLI To-Do List
 
-**Status:** In progress
+**Status:** Done
 **Uses:** Chapters 1-8, 10 (fundamentals + file reading/writing)
 
 ## What it does
