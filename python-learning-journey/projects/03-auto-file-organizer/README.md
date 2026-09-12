@@ -1,10 +1,11 @@
 # Project 3 - Auto File Organizer
 
-**Status:** Not started
-**Uses:** Chapter 11 (os, shutil), Chapter 9 (regex)
+**Status:** In progress
+**Uses:** Chapter 11 (os, shutil), Chapter 9 (regex), Chapter 12 (CLI with argparse)
 
 ## What it does
-Scans a target folder and automatically sorts files into subfolders by type.
+A command-line tool that scans a target folder and automatically sorts
+files into subfolders based on their file extension (pdf, jpg, txt, etc.)
 
 ## How to run
 ```
